@@ -22,7 +22,7 @@ $di->set('db', function () {
         array(
             "host"     => "localhost",
             "username" => "root",
-            "password" => "H48jkw3f",
+            "password" => "xxxxxxxx",
             "dbname"   => "tardis"
         )
     );
